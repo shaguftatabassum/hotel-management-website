@@ -1,0 +1,13 @@
+.body{
+    width: 100%;
+    font-weight: bold;
+    background-color: #abcfcf;
+    color: red;
+}
+
+.welcometext{
+    padding-left: 14%;
+    padding-top: 40px;
+    color: black;
+}
+
